@@ -15,6 +15,7 @@ const AddCategory = (props: Props) => {
   const onFinishFailed = (errorInfo: any) => {
     console.log("Failed", errorInfo);
   };
+  const a = 0;
   return (
     <>
       <h1 className="text-black text-4xl mb-5">Thêm mới</h1>
